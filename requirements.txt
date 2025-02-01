@@ -1,0 +1,12 @@
+google-generativeai
+python-dotenv
+gradio
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+langchain
+plotly
+sentence_transformers
+InstructorEmbedding
+langchain-community
