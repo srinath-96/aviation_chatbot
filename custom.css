@@ -1,0 +1,23 @@
+#header {
+    margin-bottom: 20px;
+}
+
+#chat_window {
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
+#text_input {
+    border-radius: 5px;
+}
+
+#file_upload {
+    margin-left: 10px;
+}
+
+#clear_button {
+    background-color: #e74c3c;
+    color: white;
+    border-radius: 5px;
+}
