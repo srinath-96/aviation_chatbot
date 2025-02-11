@@ -12,21 +12,6 @@ This project implements an intelligent chatbot for aviation data analysis. It us
 - Efficient Data Retrieval: Utilizes FAISS for fast similarity search on large datasets.
 - Caching: Pre-computes and caches dataset summaries for quick access to common statistics.
 
-## Project Structure
-
-
-aviation_chatbot/
-│
-├── src/
-│ ├── utils/
-│ │ └── hybrid_search.py
-│ └── models/
-│ └── chatbot.py
-│
-├── main.py
-├── requirements.txt
-├── .env
-└── README.md
 
 
 ## Key Components
