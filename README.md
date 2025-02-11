@@ -74,6 +74,10 @@ The chatbot can generate various types of visualizations based on user queries:
 3. Line charts (e.g., time series of fuel usage)
 4. Tables (e.g., top 5 flights by fuel consumption)
 
+
+![image](https://github.com/user-attachments/assets/fe649645-60ae-4380-98a4-ef8d4b35ecf3)
+
+
 ## Technologies Used
 
 - Python 3.8+
